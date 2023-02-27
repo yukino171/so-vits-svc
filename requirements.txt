@@ -14,6 +14,7 @@ starlette==0.19.1
 torch==1.10.0+cu113
 torchaudio==0.10.0+cu113
 tqdm==4.63.0
+librosa==0.8.1
 scikit-maad
 praat-parselmouth
 onnx
